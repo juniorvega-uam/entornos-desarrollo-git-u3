@@ -9,6 +9,6 @@ public class HolaMundo {
         System.out.print("Introduce tu nombre: ");
         String nombre = sc.nextLine();
 
-        System.out.println("Version Conflicto");
+        System.out.println("Version Rama Main");
     }
 }
